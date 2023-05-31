@@ -3,10 +3,9 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Εμφανιζει επαναληπτικα ενα μενου επιλογων
- * μεχρι ο χρηστης να επιλεξει εξοδο.
+ * Repeatedly displays a menu with options,
+ * until the user selects exit.
  */
-
 public class MenuApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
