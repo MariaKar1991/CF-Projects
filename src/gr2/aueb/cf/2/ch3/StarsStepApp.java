@@ -3,10 +3,9 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Δινουμε start, end και step
- * και εκτυπωνει αντιστοιχα αστερακια
+ * We give start, end and step
+ * and prints the corresponding stars.
  */
-
 public class StarsStepApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
