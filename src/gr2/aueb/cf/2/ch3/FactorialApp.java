@@ -3,7 +3,7 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Υπολογιζει το n!
+ * Calculates n!
  */
 public class FactorialApp {
     public static void main(String[] args) {
