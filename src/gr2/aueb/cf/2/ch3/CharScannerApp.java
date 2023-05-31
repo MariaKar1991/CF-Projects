@@ -3,7 +3,7 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Διαβαζει εναν χαρακτηρα με Scanner
+ * Reads a character with Scanner
  */
 public class CharScannerApp {
 
