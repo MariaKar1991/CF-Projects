@@ -1,10 +1,9 @@
 package gr2.aueb.cf;
 
 /**
- * ελεγχει ισότητα/ανισότητα στους
+ * checks for equality/inequality in
  * floating points.
  */
-
 public class DoubleCompareApp {
     public static void main(String[] args) {
         double d1 = 0.999;
