@@ -3,10 +3,9 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Δείχνει τη χρήση των break
- * και continue
+ * Indicates the use of breaks
+ * and continue
  */
-
 public class BreakContinueApp {
 
     public static void main(String[] args) {
