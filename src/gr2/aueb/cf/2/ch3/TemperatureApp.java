@@ -3,11 +3,10 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- *  Αποφασιζει αν χιονιζει με βαση την θερμοκρασια,
- * αν η θερμοκρασια ειναι < 0 τοτε χιονιζει, αλλιως δεν
- * χιονιζει.ο χρηστης δινει την θερμοκρασια
+ * Decides if it's snowing based on the temperature,
+ * if the temperature is < 0 then it snows, otherwise it doesn't.
+ * the user provides the temperature.
  */
-
 public class TemperatureApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
