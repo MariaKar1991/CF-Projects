@@ -3,8 +3,8 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Μετραει το πληθος των θετικων
- * αριθμων που δινει ο χρηστης
+ * Counts the number of positives
+ * numbers given by the user
  */
 public class PositivesCountApp {
     public static void main(String[] args) {
