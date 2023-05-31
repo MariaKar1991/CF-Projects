@@ -3,8 +3,8 @@ package gr.aueb.cf.chapters.ch1;
 import java.util.Scanner;
 
 /**
- * Μετατρεπει θερμοκρασιες Fahrenheit
- * σε Celsius.
+ * Converts Fahrenheit temperatures
+ * in Celsius.
  */
 public class CelsiusApp {
     public static void main(String[] args) {
