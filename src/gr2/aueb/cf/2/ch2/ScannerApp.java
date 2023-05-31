@@ -3,8 +3,8 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Διαβαζει απο το std input(πληκτρολογιο)
- * δυο ακεραιους και τους προσθετει.
+ * Reads from std input (keyboard)
+ * two integers and adds them.
  */
 public class ScannerApp {
 
