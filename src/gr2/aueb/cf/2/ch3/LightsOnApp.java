@@ -2,13 +2,13 @@ package gr2.aueb.cf;
 
 import java.util.Scanner;
 
-/** η εφαρμογη αποφασιζει αν πρεπει να αναψουν τα φωτα ενος αυτοκινητου με
- * βαση τρεις μεταβλητες:
- * αν βρεχει ΚΑΙ ταυτοχρονα ισχυει ενα τουλαχιστον
- * απο τα επομενα: ειναι σκοταδι Η' τρεχουμε (speed > 100)
- * Tις τιμες αυτες τις λαμβανουμε απο τον χρηστη.
+/** The application decides whether a car's lights should turn on,
+ * based on three variables:
+ * if it rains AND at the same time, at least one applies
+ * from the following: 
+ * it's dark and we're running (speed > 100)
+ * We get these prices from the user.
  */
-
 public class LightsOnApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
