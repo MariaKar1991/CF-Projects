@@ -1,7 +1,7 @@
 package gr2.aueb.cf;
 
 /**
- *  Υπολογιζει το a^n αναδρομικα
+ * Computes a^n recursively
  */
 public class PowerRecursiveApp {
 
