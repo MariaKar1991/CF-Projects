@@ -1,10 +1,9 @@
 package gr2.aueb.cf;
 
 /**
- * Υπολογιζει το αθροισμα και μετα το
- * γινομενο των 10 πρωτων ακεραιων
+ * Calculates the sum and after the
+ * product of the 10 prime integers.
  */
-
 public class SumAndMul10App {
     public static void main(String[] args) {
         int sum = 0;
