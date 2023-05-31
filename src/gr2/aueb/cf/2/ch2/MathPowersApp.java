@@ -1,11 +1,9 @@
 package gr2.aueb.cf;
 
-
 /**
- * Βρισκει το τετραγωνο και τον κυβο
- * ενος ακεραιου που δινει ο χρηστης
+ * Finds the square and the cube
+ * an integer given by the user
  */
-
 import java.util.Scanner;
 
 public class MathPowersApp {
