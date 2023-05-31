@@ -1,9 +1,8 @@
 package gr2.aueb.cf;
 
 /**
- * ο χρηστης δινει τρεις ακεραιους και βρσκουμε τον μεγαλυτερο
+ * the user gives three integers, and the program finds the largest of them.
  */
-
 import java.util.Scanner;
 
 public class MaxOfThreeInts {
