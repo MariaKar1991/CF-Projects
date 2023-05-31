@@ -1,8 +1,8 @@
 package gr2.aueb.cf;
 
 /**
- * Εμφανίζει τους τυπους δεδομενων
- * ακεραιων,το μεγεθος,και τα
+ * Displays the data types
+ * of integers, the size, and the
  * MIN - MAX values
  */
 public class IntTypesApp {
