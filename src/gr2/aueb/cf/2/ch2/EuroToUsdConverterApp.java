@@ -2,12 +2,11 @@ package gr2.aueb.cf;
 
 import java.util.Scanner;
 
-/** Μετατρεπει euros σε δολαρια ΗΠΑ.
- * Λαμβανει απο τον χρηστη (stdin) ενα ακεραιο
- * που συμβολιζει το ποσο σε Euros και μετατρεπει
- * σε δολαρια και εμγανιζει το τελικο αποτελεσμα
+/** Converts Euros to US Dollars.
+ * Receives from the user (stdin) an integer
+ * which symbolizes the amount in Euros and converts
+ * in dollars and enmagnes the final result
  */
-
 public class EuroToUsdConverterApp {
     public static void main(String[] args) {
 
