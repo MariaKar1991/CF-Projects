@@ -2,14 +2,13 @@ package gr2.aueb.cf;
 
 import java.util.Scanner;
 
-/**
- * Υπολογιζει το πληθος των ψηφιων ενος ακεραιου,
- * το αθροισμα των ψηφιων και το αθροισμα του
- * πρωτου και του τελευταιου
- * ψηφιου.
- * π.χ 531 -> count: 3, sum: 9 , leftmost + rightmost: 6.
- */
 
+/**
+ * Calculates the number of digits of an integer,
+ * the sum of the digits and the sum of the
+ * first and last digit.
+ * e.g. 531 -> count: 3, sum: 9 , leftmost + rightmost: 6.
+ */
 public class DigitApp {
     public static void main(String[] args) {
 
