@@ -3,8 +3,8 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * βρισκει το min η/και το max 2 αριθμων
- * που δινει ο χρηστης
+ * finds the min and/or max of 2 numbers
+ * given by the user
  */
 public class MinMaxApp {
 
