@@ -1,9 +1,9 @@
 package gr2.aueb.cf;
-/**
- * Λαμβάνει 3 τιμές απο τον χρήστη, τις a, b ,c
- * όπου a είναι η υποτείνουσα και b, c οι δύο πλευρές.
- */
 
+/**
+ * Receives 3 values from the user, a, b, c.
+ * Where a is the hypotenuse and b, c the two sides.
+ */
 import java.util.Scanner;
 
 public class RightTriangleApp {
