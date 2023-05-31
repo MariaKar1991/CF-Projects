@@ -3,8 +3,8 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- *  Βρισκει τον μεσο ορο της βαθμολογιας ενος
- *  μαθητη. Παρεχονται τα total και count.
+ * Finds the average score of a
+ * student. Total and count are provided.
  */
 public class AverageApp {
     public static void main(String[] args) {
