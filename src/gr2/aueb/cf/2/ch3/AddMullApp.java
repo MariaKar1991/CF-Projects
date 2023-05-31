@@ -1,10 +1,9 @@
 package gr2.aueb.cf;
 
 /**
- * Προσθετει και πολλαπλασιαζει
- * n πρωτους ακεραιους. Το n το δινει ο χρηστης.
+ * Adds and multiplies
+ * n prime integers. n is given by the user.
  */
-
 import java.util.Scanner;
 
 public class AddMullApp {
