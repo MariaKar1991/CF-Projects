@@ -5,7 +5,6 @@ import java.util.Scanner;
 /** Gets a user's choice based on a menu
  * and returns a feedback/confirmation
  */
-
 public class SwitchCaseApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
