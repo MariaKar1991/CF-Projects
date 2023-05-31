@@ -3,10 +3,10 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Υπολογιζει το a^b, π.χ το 2^3 = 8
- * Διαβαζει το a και b απο τον χρηστη
+ * Calculates a^b, 
+ * e.g 2^3 = 8
+ * Reads a and b from the user.
  */
-
 public class PowerApp2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
