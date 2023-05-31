@@ -3,14 +3,13 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Ενα αεροσκαφος εχει δυο δεξαμενες.
- * Αν μια δεξαμενη εχει λιγοτερο απο 1/4 καυσιμα
- * τοτε αναβει πορτοκαλι σημα, ενω αν και οι δυο
- * δεξαμενες εχουν < 1/4 τοτε αναβει κοκκινο σημα.
- * ο πιλοτος δινει true/false αναλογα αν tank < 1/4 η' οχι
- * αντιστοιχα.
+ * An aircraft has two tanks.
+ * If a tank has less than 1/4 fuel
+ * then an orange flag lights up,
+ * if both tanks have < 1/4 then a red flag lights up.
+ * The pilot gives true/false depending on whether the tank is < 1/4 or not
+ * respectively.
  */
-
 public class OrangeRedSignalApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
