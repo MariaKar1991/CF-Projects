@@ -4,8 +4,8 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * Διαβαζει ωρες, λεπτα και δευτερολεπτα απο τον χρηστη
- * και τα μετατρεπει σε δευτερολεπτα
+ * Reads hours, minutes and seconds from the user's input,
+ * and converts them to seconds
  */
 public class SecondsApp {
     public static void main(String[] args) {
