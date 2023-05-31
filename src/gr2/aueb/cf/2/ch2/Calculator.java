@@ -1,11 +1,11 @@
 package gr2.aueb.cf;
 
 import java.util.Scanner;
-/**
- * ο χρηστης δινει δυο ακεραιους
- * και υπολογιζει τα +, -, *. / %
- */
 
+/**
+ * the user gives two integers
+ * and calculates +, -, *. / %
+ */
 public class Calculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
