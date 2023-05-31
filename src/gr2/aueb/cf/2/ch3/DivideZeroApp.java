@@ -1,9 +1,8 @@
 package gr2.aueb.cf;
 
 /**
- * Διαιρεση με το 0.
+ * Division by 0.
  */
-
 public class DivideZeroApp {
 
     public static void main(String[] args) {
