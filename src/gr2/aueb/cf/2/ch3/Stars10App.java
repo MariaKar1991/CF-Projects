@@ -1,7 +1,7 @@
 package gr2.aueb.cf;
 
 /**
- * Εκτυπωνει 10 αστερακια (10 φορες απο 1 αστερακι).
+ * Prints 10 stars (1 star for 10 times).
  */
 public class Stars10App {
     public static void main(String[] args) {
