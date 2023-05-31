@@ -1,10 +1,9 @@
 package gr2.aueb.cf;
 
 /**
- * εκτελει εναν συγκεκριμενο αριθμο
- * επαναληψεων
+ * executes a specific number
+ * repetitions
  */
-
 public class CounterApp {
 
     public static void main(String[] args) {
