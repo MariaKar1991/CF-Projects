@@ -2,10 +2,10 @@ package gr2.aueb.cf;
 
 import java.util.Scanner;
 
-/** Αποφασιζει αν χιονιζει η οχι, με βαση οχι μονο
- * την θερμοκρασια αλλα και τον αν βρεχει.
- * Αν βρεχει και η θερμοκρασια ειναι < 0, τοτε χιονιζει,
- * αλλιως οχι.
+/** Decides whether it's snowing or not, based on not only 
+ * the temperature but also whether it is raining.
+ * If it is raining and the temperature is < 0, 
+ * then it is snowing, otherwise it's doesn't.
  */
 public class SnowingApp {
     public static void main(String[] args) {
