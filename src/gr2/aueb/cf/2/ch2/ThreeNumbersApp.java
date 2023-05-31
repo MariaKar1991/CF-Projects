@@ -3,10 +3,10 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Ζηταει απο τον χρηστη τρεις ακεραιους,
- * τους μειωνει κατα μια μοναδα και τους
- * εμφανιζει με την ιδια σειρα που δοθηκαν
- * αφηνοντας ενα κενο αναμεσα τους
+ * Asks the user for three integers,
+ * decreases them by one unit as well
+ * appears in the same order as given
+ * leaving a gap between them
  */
 public class ThreeNumbersApp {
     public static void main(String[] args) {
