@@ -1,11 +1,8 @@
 package gr2.aueb.cf;
 
-
 /**
- * Ριχνει δυο ζαρια
+ * Rolls two dice
  */
-
-
 public class RandomDiceApp {
     public static void main(String[] args) {
 
