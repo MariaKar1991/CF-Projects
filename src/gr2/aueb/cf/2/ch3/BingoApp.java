@@ -4,7 +4,7 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- * Κανει bingo οταν ο χρηστης μαντεψει ενα
+ * Prints bingo when the user guesses one
  * secret key
  */
 public class BingoApp {
