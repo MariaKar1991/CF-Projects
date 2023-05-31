@@ -1,7 +1,7 @@
 package gr2.aueb.cf;
 
 /**
- * Αέναο for loop
+ * Infinite for loop
  */
 public class SpecialForCaseApp {
 
