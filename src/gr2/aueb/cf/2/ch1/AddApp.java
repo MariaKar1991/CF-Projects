@@ -1,9 +1,8 @@
 package gr2.aueb.cf;
 
 /**
- * Προσθετει δυο ακεραιους
- * και εμφανιζει το αποτελεσμα στο
- * stdout.
+ * Adds two integers
+ * and displays the result
  */
 public class AddApp {
 
