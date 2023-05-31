@@ -1,10 +1,9 @@
 package gr2.aueb.cf;
 
 /**
- * Υπολογιζει και εκτυπωνει το αθροισμα και το γινομενο
- * των πρωτων 10 αριθμων
+ * Calculates and prints the sum and the product
+ * of the first 10 numbers
  */
-
 public class SumMulApp {
     public static void main(String[] args) {
         int sum = 0;
