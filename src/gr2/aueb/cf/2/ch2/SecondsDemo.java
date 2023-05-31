@@ -1,9 +1,8 @@
 package gr2.aueb.cf;
 
 /**
- * Μετατρεπει δευτερολεπτα σε DAYS, HOURS, MINUTES
+ * Converts seconds to DAYS, HOURS, MINUTES
  */
-
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
