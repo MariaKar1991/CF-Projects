@@ -3,8 +3,8 @@ package gr2.aueb.cf;
 import java.util.Scanner;
 
 /**
- *  Εκτυπωνει n οριζοντια αστερακια, οπου n ειναι ενας ακεραιος
- *  που δινει ο χρηστης
+ * Prints n (times) horizontal stars, where n is an integer
+ * given by the user.
  */
 public class StarsApp {
 
